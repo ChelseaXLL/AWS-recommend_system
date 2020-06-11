@@ -1,0 +1,21 @@
+body, html, #main {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font: {
+        size: 19px;
+        family: 'Nunito', sans-serif;
+    }
+    background: #000a12;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: #1e88e5;
+}
+
+textarea {
+    font-family: 'Nunito', sans-serif;
+}
